@@ -21,8 +21,3 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('task.urls'))
 ]
-git add .
-git commit -m "imtixon"
-git branch -M main
-git remote add origin https://github.com/awaxos/imtixon.git
-git push -u origin main
